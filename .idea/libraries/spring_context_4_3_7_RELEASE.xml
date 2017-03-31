@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spring-context-4.3.7.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/spring-context-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/spring-beans-4.2.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
